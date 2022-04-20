@@ -1,0 +1,4 @@
+test:
+  keys:
+    key1: prd_value1
+    key2: prd_value2

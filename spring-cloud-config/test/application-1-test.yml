@@ -1,0 +1,4 @@
+test:
+  keys:
+    key1: test_value1
+    key2: test_value2
